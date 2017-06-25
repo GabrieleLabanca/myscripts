@@ -1,2 +1,2 @@
-source ~/Apps/root/builddir/bin/thisroot.sh 
+source ~/Apps/buildroot/bin/thisroot.sh
 root
